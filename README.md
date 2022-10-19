@@ -9,3 +9,4 @@ Next make sure you add ensure AMG_Sandy_Trees to your server.cfg
 Warning due to a high amount of tree entitys being you7 might experince frame drop in some places.
 This is normal and all areas have been tested for framerates and any other problems.
 The ymaps consists over 1500 entitys and has been tested with the fivem limtit. 
+![1](https://user-images.githubusercontent.com/76175523/196742508-34866928-1abe-4081-918d-6f2e99b325a6.jpg)
